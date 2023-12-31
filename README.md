@@ -1,4 +1,4 @@
-# README: Enhanced Bayesian Optimization Benchmarking
+# Enhanced Bayesian Optimization Benchmarking
 
 ## Project Name: Enhanced Benchmarking of Bayesian Optimization for Experimental Materials Science Domains
 
